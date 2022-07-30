@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moheshwar Amarnath Biswas</h1>
+# Hi 👋, I'm Moheshwar Amarnath Biswas
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fluentmoheshwar&label=Profile%20views&color=0e75b6&style=flat" alt="fluentmoheshwar" /> </p>
 
