@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="fluentmoheshwar" /></p> <br>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fluentmoheshwar" alt="fluentmoheshwar" /></a> </p> <br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=fluentmoheshwar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&locale=en" alt="fluentmoheshwar" /></p> <br>
 
