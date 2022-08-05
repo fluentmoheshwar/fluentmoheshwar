@@ -22,6 +22,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fluentmoheshwar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&locale=en" alt="fluentmoheshwar" /></p> <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=onedark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fluentmoheshwar&" alt="fluentmoheshwar" /></p> <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fluentmoheshwar&theme=onedark)](https://git.io/streak-stats)
