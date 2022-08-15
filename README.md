@@ -9,6 +9,18 @@
 
 - 💬 Ask me about **Anything in Tech.**
 
+# Social Media
+
+[![Facebook][1.2]][1] [![Instagram][2.2]][2] [![Twitter][3.2]][3]
+
+[1.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg
+[2.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg
+[3.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg
+
+[1]: https://facebook.com/fluentmoheshwar
+[2]: https://www.instagram.com/fluentmoheshwar
+[3]: https://twitter.com/fluentmoheshwar
+
 # Skills
 
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,git,github,gitlab,ps,pr)](https://skillicons.dev)
