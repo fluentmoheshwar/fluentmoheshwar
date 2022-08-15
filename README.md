@@ -11,21 +11,19 @@
 
 # Social Media
 
-[![Facebook][1.2]][1] [![Instagram][2.2]][2] [![Twitter][3.2]][3]
+[![Facebook][1.2]][1] [![Twitter][2.2]][2]
 
 [1.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg
-[2.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg
-[3.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg
+[2.2]: https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg
 
 [1]: https://facebook.com/fluentmoheshwar
-[2]: https://www.instagram.com/fluentmoheshwar
-[3]: https://twitter.com/fluentmoheshwar
+[2]: https://twitter.com/fluentmoheshwar
 
 # Skills
 
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,git,github,gitlab,ps,pr)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fluentmoheshwar" /></p> <br>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fluentmoheshwar)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fluentmoheshwar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
