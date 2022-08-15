@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,git,github,gitlab,ps,pr)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fluentmoheshwar)](https://github.com/anuraghazra/github-readme-stats)
+![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fluentmoheshwar)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fluentmoheshwar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
