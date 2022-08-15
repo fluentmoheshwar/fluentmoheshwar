@@ -11,7 +11,7 @@
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,git,github,gitlab,ps,pr)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=onedark&locale=en&layout=compact" alt="fluentmoheshwar" /></p> <br>  
 
