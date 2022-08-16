@@ -30,3 +30,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=onedark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fluentmoheshwar&theme=onedark)](https://git.io/streak-stats)
+
+[![github activity graph](https://activity-graph.herokuapp.com/graph?username=fluentmoheshwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
