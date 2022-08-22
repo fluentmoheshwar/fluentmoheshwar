@@ -1,7 +1,15 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+Milk&size=40&duration=4980&pause=980&width=750&height=70&lines=Hi!;I'm+Moheshwar+Amarnath+Biswas;From+Bangladesh;A+Developer;A+content+creator;A+student;Thank+you+for+visiting!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=fluentmoheshwar&style=flat-square)
+I am Moheshwar Amarnath Biswas From Bangladesh. I am a programmer. I am also a content creator and student.
+
+Other than coding I love:
+
+- Cooking
+- Business
+- Content Creation
+- Working with spreadsheets (Mainly Excel)
+
 
 - 🔭 I’m currently working on [Zhotpot Recipe Website](https://github.com/fluentmoheshwar/zhotpot-recipe)
 
@@ -32,3 +40,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fluentmoheshwar&theme=onedark)](https://git.io/streak-stats)
 
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=fluentmoheshwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://komarev.com/ghpvc/?username=fluentmoheshwar&style=flat-square)
