@@ -1,7 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=40&duration=4980&pause=980&width=750&height=70&lines=Hi!;I'm+Moheshwar+Amarnath+Biswas;From+Bangladesh;A+Developer;A+content+creator;A+student;Thank+you+for+visiting!)](https://git.io/typing-svg)
+![Visitors](https://komarev.com/ghpvc/?username=fluentmoheshwar&style=flat-square)
 
-I am Moheshwar Amarnath Biswas From Bangladesh. I am a programmer. I am also a content creator and student.
+I'm a grade VI student who is passionate about developing. I'm currently learning programming languages like Python to enhance my coding skills. I'm a hardworking student who is determined to learn new things and take on challenges. I'm excited to see where my passion for developing takes me.
 
 Other than coding I love:
 
@@ -11,7 +12,7 @@ Other than coding I love:
 - Working with spreadsheets (Mainly Excel)
 
 
-- 🔭 I’m currently working on [Zhotpot Recipe Website](https://github.com/fluentmoheshwar/zhotpot-recipe)
+- 🔭 I’m currently working on [My portfolio website](https://fluentmoheshwar.vercel.app)
 
 - 🌱 I’m currently learning **Web development**
 
@@ -29,15 +30,13 @@ Other than coding I love:
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,docker,discord,twitter,cloudflare,visualstudio,vscode,git,github,gitlab,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,bootstrap,tailwind,vscode,git,github,vite,ps,pr,discord,twitter,stackoverflow,cloudflare,vercel)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=highcontrast&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fluentmoheshwar&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=highcontrast)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fluentmoheshwar&theme=highcontrast)](https://git.io/streak-stats)
 
-[![github activity graph](https://activity-graph.herokuapp.com/graph?username=fluentmoheshwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![](https://komarev.com/ghpvc/?username=fluentmoheshwar&style=flat-square)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fluentmoheshwar&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
