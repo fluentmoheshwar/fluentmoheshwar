@@ -23,7 +23,7 @@ Other than coding I love:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=vue-dark&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fluentmoheshwar&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
