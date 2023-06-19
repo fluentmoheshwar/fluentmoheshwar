@@ -1,21 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Abel&size=40&duration=4980&pause=980&width=750&height=70&lines=Hi!;I'm+Moheshwar+Amarnath+Biswas;From+Bangladesh;A+Developer;A+content+creator;A+student;Thank+you+for+visiting!)](https://git.io/typing-svg)
-![Visitors](https://komarev.com/ghpvc/?username=fluentmoheshwar&style=flat-square)
-
-I'm a grade VI student who is passionate about developing. I'm currently learning programming languages like Python to enhance my coding skills. I'm a hardworking student who is determined to learn new things and take on challenges. I'm excited to see where my passion for developing takes me.
-
-Other than coding I love:
-
-- Cooking
-- Business
-- Content Creation
-- Working with spreadsheets (Mainly Excel)
-
-
-
-- 🌱 I’m currently learning **Express.js**
-
-- 💬 Ask me about **Anything in Tech.**
+Meet Moheshwar Amarnath Biswas, a skilled software developer proficient in Windows, Git, Tailwind CSS, HTML, CSS, JavaScript, and Python. With a passion for music, Moheshwar also enjoys occasional singing, bringing creativity and versatility to their endeavors.
 
 # Skills
 
