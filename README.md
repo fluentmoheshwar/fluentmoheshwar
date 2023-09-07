@@ -1,8 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
-
 # Meet Moheshwar Amarnath Biswas
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=100&pause=1000&center=true&width=435&lines=Full-stack+developer;Always+learning;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=100&pause=100&width=435&lines=Full-stack+developer;Always+learning;From+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
 A skilled software developer proficient in Windows, Git, Tailwind CSS, HTML+CSS, TypeScript, and Python. With a passion for music, Moheshwar also enjoys occasional singing, bringing creativity and versatility to their endeavors.
 
