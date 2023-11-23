@@ -3,7 +3,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
 [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full-stack+developer;Always+learning!)](https://git.io/typing-svg)
 
-A skilled software developer proficient in Windows, Git, Tailwind CSS, HTML+CSS, TypeScript, and Python. With a passion for music, Moheshwar also enjoys occasional singing, bringing creativity and versatility to their endeavors.
+A skilled software developer proficient in Git, Tailwind CSS, HTML+CSS, TypeScript, and Python. With a passion for music, Moheshwar also enjoys occasional singing, bringing creativity and versatility to their endeavors.
 
 ## Skills
 
