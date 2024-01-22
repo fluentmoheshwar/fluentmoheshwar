@@ -1,7 +1,5 @@
 # Meet Moheshwar Amarnath Biswas
 
-![waving](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
-
 A skilled software developer proficient in Git, Tailwind CSS, HTML+CSS, TypeScript, and Python.
 
 ## Skills
