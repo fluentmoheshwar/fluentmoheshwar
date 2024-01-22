@@ -1,6 +1,6 @@
 # Meet Moheshwar Amarnath Biswas
 
-A skilled software developer proficient in Git, Tailwind CSS, HTML+CSS, TypeScript, and Python.
+I'm a passionate software developer who loves to create amazing web applications using Tailwind CSS, TypeScript and other cutting-edge technologies. I have building strong background in programming, as I started coding when I was only 7 years old. I was fascinated by the power and creativity that programming gave me, and I never stopped learning and exploring new possibilities. I enjoy collaborating with and learning from other developers. I'm always eager to learn new skills and tools, and I'm always looking for new challenges and opportunities to grow as a developer.
 
 ## Skills
 
