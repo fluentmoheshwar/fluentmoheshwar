@@ -8,9 +8,9 @@ I'm a software developer who loves to create amazing applications using modern t
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=vue-dark&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-theta-17.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=vue-dark&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats-ruby-theta-17.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![github activity graph](https://githubactivitygraph.vercel.app/graph?username=fluentmoheshwar&theme=vue)](https://github.com/fluentmoheshwar/githubactivitygraph)
 
