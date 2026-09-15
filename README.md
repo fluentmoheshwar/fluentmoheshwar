@@ -1,10 +1,10 @@
 # Meet Moheshwar Amarnath Biswas
 
-I'm a software developer who loves to create amazing applications using modern technologies such as Node.js, Astro, Python and others. I have building strong background in programming, as I started coding when I was only 7 years old. I was fascinated by the power and creativity that programming gave me, and I never stopped learning and exploring new possibilities. I enjoy collaborating with and learning from other developers. I'm always eager to learn new skills and technologies, and I'm always looking for new challenges and opportunities to grow as a software developer.
+I'm a software developer who loves to create amazing applications using modern technologies such as Node.js, Astro, Python, and others. I have a strong background in programming, as I started coding when I was only 7 years old. I was fascinated by the power and creativity that programming gave me, and I never stopped learning and exploring new possibilities. I enjoy collaborating with and learning from other developers. I'm always eager to learn new skills and technologies, and I'm always looking for new challenges and opportunities to grow as a software developer.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,c,py,html,css,js,ts,md,bootstrap,tailwind,vscode,git,github,vite,ps,pr,discord,twitter,stackoverflow,azure,cloudflare,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,windows,ubuntu,c,py,html,css,js,ts,md,astrp,bootstrap,tailwind,vscode,git,github,vite,ps,pr,discord,twitter,stackoverflow,azure,cloudflare,vercel)](https://skillicons.dev)
 
 ## Stats
 
