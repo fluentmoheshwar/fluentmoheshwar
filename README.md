@@ -4,7 +4,7 @@ I'm a software developer who loves to create amazing applications using modern t
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,windows,ubuntu,c,py,html,css,js,ts,md,astrp,bootstrap,tailwind,vscode,git,github,vite,ps,pr,discord,twitter,stackoverflow,azure,cloudflare,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,linux,windows,ubuntu,c,py,html,css,js,ts,md,astro,bootstrap,tailwind,vscode,git,github,vite,ps,pr,discord,twitter,stackoverflow,azure,cloudflare,vercel)](https://skillicons.dev)
 
 ## Stats
 
