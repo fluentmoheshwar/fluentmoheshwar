@@ -8,10 +8,10 @@ I'm a software developer who loves to create amazing applications using modern t
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats-ruby-theta-17.vercel.app/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=vue-dark&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://grs.moheshwar.com/api/top-langs?username=fluentmoheshwar&show_icons=true&theme=vue-dark&locale=en&layout=compact)](https://github.com/fluentmoheshwar/github-readme-stats)
 
-[![stats](https://github-readme-stats-ruby-theta-17.vercel.app/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://grs.moheshwar.com/api?username=fluentmoheshwar&show_icons=true&theme=vue-dark)](https://github.com/fluentmoheshwar/github-readme-stats)
 
-[![github activity graph](https://githubactivitygraph.vercel.app/graph?username=fluentmoheshwar&theme=vue)](https://github.com/fluentmoheshwar/githubactivitygraph)
+[![github activity graph](https://gag.moheshwar.com/graph?username=fluentmoheshwar&theme=vue)](https://github.com/fluentmoheshwar/githubactivitygraph)
 
 Disclaimer: These stats are automatically generated based on my public repositories. They do not reflect my actual level of expertise or competence in any way.
